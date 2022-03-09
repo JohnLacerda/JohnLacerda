@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnLacerda
 - 👀 I’m interested in all things Computer Science and Engineering
-- 🌱 I’m currently learning Shell
+- 🌱 I’m currently learning Competitive algorithms
 - 💞️ I’m looking to collaborate on any interesting project that i'm capable of helping with
 - 📫 How to reach me jlfl@cin.ufpe.br
 
